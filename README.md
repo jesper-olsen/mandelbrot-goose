@@ -8,7 +8,7 @@ The program compiles to a single native executable. It can render the Mandelbrot
 
 This project is part of a suite of mandelbrot implementations in different languages.
 
-Single Thread/Multi-thread shows the number of seconds it takes to do a 5000x5000 calculation.
+Single Thread/Multi-thread shows the number of seconds it takes to do a 5000x5000 calculation. 
 
 
 | Language                                                       | Single Thread   | Multi-Thread | Simd | Multi-Thread + Simd |
@@ -32,9 +32,7 @@ Single Thread/Multi-thread shows the number of seconds it takes to do a 5000x500
 | [Tcl](https://github.com/jesper-olsen/mandelbrot-tcl)          |           306.9 |              |      |                     |
 | [Typescript](https://github.com/jesper-olsen/mandelbrot-ts)    |             4.1 |          0.8 |      |                     |
 | [Zig](https://github.com/jesper-olsen/mandelbrot-zig)          |             4.9 |          0.9 |  0.7 |               0.3   |
-|                                                                                                                              |
-| Shell Scripts                                                                                                                |
-|                                                                                                                              |
+|                                                                |                 |              |      |                     |
 | [Bash5.3](https://github.com/jesper-olsen/mandelbrot-bash)     |         10187.3 |              |      |                     |
 | [Zsh](https://github.com/jesper-olsen/mandelbrot-bash)         |          2683.6 |              |      |                     |
 | [Ksh (93u+m)](https://github.com/jesper-olsen/mandelbrot-bash) |          1271.5 |              |      |                     |
